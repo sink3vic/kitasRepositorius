@@ -1,0 +1,2 @@
+# kitasRepositorius
+dar vienas
